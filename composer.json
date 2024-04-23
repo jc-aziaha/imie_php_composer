@@ -1,0 +1,19 @@
+{
+    "name": "imie/vega",
+    "description": "Learn poo in php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vega",
+            "email": "aziaha.formations@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
